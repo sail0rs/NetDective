@@ -89,6 +89,37 @@ It will show which ports are open/closed and service/version info.
 
 ---
 
+Absolutely! Here's a **README block** you can drop into your GitHub repo to explain the `.exe` file — including how to use it, system requirements, and some helpful notes. I'll make it look clean and GitHub-friendly with markdown formatting.
+
+---
+
+### 🟦 Windows Executable (.exe)
+
+This repository includes a standalone Windows `.exe` file built with [PyInstaller](https://www.pyinstaller.org/).
+
+#### 📦 Features:
+- ✅ No Python installation required  
+- ✅ All dependencies are bundled  
+- ✅ Just download and run  
+- ✅ Compatible with Windows 10/11 (64-bit)
+
+---
+
+
+#### 🛡️ Windows Defender Warning?
+
+Some systems might warn you about running `.exe` files from the internet. If that happens:
+- Click **"More info"** → **"Run anyway"**
+- You can also right-click → Properties → Unblock if needed
+
+---
+
+#### 🧪 Tested On:
+- Windows 11 Home (64-bit)
+
+---
+
+
 ## 📁 Project Structure
 
 ```
