@@ -89,9 +89,6 @@ It will show which ports are open/closed and service/version info.
 
 ---
 
-Absolutely! Here's a **README block** you can drop into your GitHub repo to explain the `.exe` file — including how to use it, system requirements, and some helpful notes. I'll make it look clean and GitHub-friendly with markdown formatting.
-
----
 
 ### 🟦 Windows Executable (.exe)
 
