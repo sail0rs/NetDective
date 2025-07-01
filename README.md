@@ -129,7 +129,7 @@ README.md
 ## 👨‍🔧 Author
 
  
-🔗 GitHub: [@Soumyadeep-dey04](https://github.com/Soumyadeep-dey04)  
+🔗 GitHub: [@sail0rs](https://github.com/sail0rs)  
 📺 LinkedIn: (https://www.linkedin.com/in/soumyadeep-dey-16036628b)
 
 ---
